@@ -37,7 +37,7 @@
 ### Languages
 
 <p>
-  <img src="https://raw.githubusercontent.com/NostalgiaIm/assets/main/assets/c-icon-transparent.png" width="40" title="C" alt="C" />
+  <img src="https://raw.githubusercontent.com/NostalgiaIm/assets/main/c-icon-transparent.png" width="40" title="C" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" alt="C++" />
 </p>
 
