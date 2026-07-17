@@ -44,7 +44,7 @@
 ### Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" alt="C" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40" title="C" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" alt="C++" />
 </p>
 
