@@ -40,7 +40,7 @@
 ### Database
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"  title="MySQL" alt="MySQL logo"  />
 </p>
 
 ### Languages
