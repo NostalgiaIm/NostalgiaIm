@@ -54,3 +54,8 @@
 
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" title="Windows" alt="Windows" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" title="Godot" alt="Godot" /> 
 </p>
+
+<div align="center">
+  <img src="https://count.getloli.com/@NostalgiaIm?theme=gelbooru&padding=7&scale=1" alt="" />
+</div>
+
