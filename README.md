@@ -57,7 +57,11 @@
 
 ### Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NostalgiaIm&theme=tokyonight&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=NostalgiaIm&theme=tokyonight&hide_border=true&border_radius=20" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NostalgiaIm&theme=tokyonight&bg_color=1a1b27&color=79c0ff&line=79c0ff&point=ff7b72&area=true&hide_border=true" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+
+### Visitor Count
 
 <div align="center">
   <img src="https://count.getloli.com/@NostalgiaIm?theme=gelbooru&padding=7&scale=1" alt="" />
