@@ -57,7 +57,7 @@
 
 ### Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NostalgiaIm)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NostalgiaIm&theme=tokyonight&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://count.getloli.com/@NostalgiaIm?theme=gelbooru&padding=7&scale=1" alt="" />
