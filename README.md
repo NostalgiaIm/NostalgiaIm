@@ -2,14 +2,14 @@
 
 ## About Me 👋
 
+<img align="right" src="https://raw.githubusercontent.com/NostalgiaIm/NostalgiaIm/main/NostalgiaIm%20image.png" width="230" alt="NostalgiaIm image" />
+
 - 我是 **ネガイイム**。
 - 平时喜欢写代码，有时候会做一些小东西。
 - 对编程，音乐很感兴趣，喜欢慢慢探索不同语言能做什么。
 - 平时喜欢听歌，主要是日语和纯音乐。
 - 在 GitHub 上会放一些练习项目、个人作品和随手做的小工具。
 - 日常开发主要使用 **Windows** 系统。
-
-<img align="right" src="https://raw.githubusercontent.com/NostalgiaIm/NostalgiaIm/main/NostalgiaIm%20image.png" width="230" alt="NostalgiaIm image" />
 
 ## What I'm Doing 
 
