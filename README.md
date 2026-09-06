@@ -59,7 +59,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=NostalgiaIm&theme=tokyonight&hide_border=true&border_radius=20" width="46%" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); margin: 1%;" />
-  <img src="https://github-readme-stats-seven-theta-87.vercel.app/api/top-langs/?username=NostalgiaIm&layout=donut&theme=tokyonight&hide_border=true&border_radius=20" width="46%" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); margin: 1%;" />
+  <img src="https://github-readme-stats-seven-theta-87.vercel.app/api/top-langs/?username=NostalgiaIm&layout=donut&theme=tokyonight&hide_border=true&border_radius=20" width="40%" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); margin: 1%;" />
 </p>
 
 ### Visitor Count
