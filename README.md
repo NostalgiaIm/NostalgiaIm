@@ -9,6 +9,8 @@
 - 在 GitHub 上会放一些练习项目、个人作品和随手做的小工具。
 - 日常开发主要使用 **Windows** 系统。
 
+<img align="right" src="https://raw.githubusercontent.com/NostalgiaIm/NostalgiaIm/main/NostalgiaIm%20image.png" width="230" alt="NostalgiaIm image" />
+
 ## What I'm Doing 
 
 - 偶尔做一些有趣的小项目。
