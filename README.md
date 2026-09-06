@@ -18,40 +18,31 @@
 
 ## Tech Stack
 
-<table align="center" width="100%" style="border-collapse: collapse; table-layout: fixed;">
-  <tr>
-    <td align="center" width="25%" style="white-space: nowrap;"><strong>Front-End</strong></td>
-    <td align="center" width="25%" style="white-space: nowrap;"><strong>Back-End</strong></td>
-    <td align="center" width="25%" style="white-space: nowrap;"><strong>DB & Langs</strong></td>
-    <td align="center" width="25%" style="white-space: nowrap;"><strong>Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="center" style="white-space: nowrap;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="24" title="HTML5" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="24" title="CSS3" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="24" title="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" title="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="24" title="Vue 3" />
-    </td>
-    <td align="center" style="white-space: nowrap;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="24" title="Node.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" title="Java" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24" title="C#" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="24" title="Kotlin" />
-    </td>
-    <td align="center" style="white-space: nowrap;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" title="MySQL" />
-      <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="24" title="C" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" title="C++" />
-    </td>
-    <td align="center" style="white-space: nowrap;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" title="Git" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="24" title="Windows" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="24" title="Godot" />
-    </td>
-  </tr>
-</table>
+<p align="center" style="white-space: nowrap; overflow-x: auto;">
+  <strong>Front-End</strong>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="24" title="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="24" title="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="24" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="24" title="Vue 3" />
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>Back-End</strong>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="24" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="24" title="Kotlin" />
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>DB &amp; Langs</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" title="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="24" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" title="C++" />
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <strong>Tools</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="24" title="Windows" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="24" title="Godot" />
+</p>
 
 ### Stats
 
