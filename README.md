@@ -57,18 +57,10 @@
 
 ### Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=NostalgiaIm&theme=tokyonight&hide_border=true&border_radius=20" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NostalgiaIm&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NostalgiaIm&theme=tokyonight&hide_border=true&border_radius=20" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); margin: 10px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NostalgiaIm&theme=tokyonight" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); margin: 10px;" />
+</p>
 
 ### Visitor Count
 
