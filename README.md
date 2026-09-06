@@ -19,40 +19,23 @@
 ## Tech Stack
 
 ### Front-End
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="40" title="CSS3" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40" title="JavaScript" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue 3" alt="Vue 3" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue&perline=8" />
 </p>
 
 ### Back-End
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin" alt="Kotlin" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,java,python,cs,kotlin&perline=8" />
 </p>
 
-### Database
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"  title="MySQL" alt="MySQL logo"  />
-</p>
-
-### Programming Languages
-
-<p> 
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40" title="C" alt="C" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" alt="C++" /> 
+### Database & Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,c,cpp&perline=8" />
 </p>
 
 ### Tools & Game Engines
-
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" title="Windows" alt="Windows" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" title="Godot" alt="Godot" /> 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,godot&perline=8" />
 </p>
 
 ### Stats
