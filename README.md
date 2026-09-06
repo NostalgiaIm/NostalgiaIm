@@ -2,7 +2,7 @@
 
 ## About Me 👋
 
-<img src="./assets/megumin-clear-transparent-nohalo.png" align="right" width="260" />
+<img align="right" src="https://github.com/NostalgiaIm/NostalgiaIm/blob/main/megumin-clear-transparent-nohalo.png" width="230" alt="NostalgiaIm image" />
 
 - 我是 **ネガイイム**。
 - 平时喜欢写代码，有时候会做一些小东西。
