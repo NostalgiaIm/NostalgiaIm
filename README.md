@@ -27,6 +27,7 @@
     <td align="center" style="padding: 0 8px;"><strong>Database</strong></td>
     <td align="center" style="padding: 0 8px;"><strong>Languages</strong></td>
     <td align="center" style="padding: 0 8px;"><strong>Tools</strong></td>
+    <td align="center" style="padding: 0 8px;"><strong>Machine Learning</strong></td>
   </tr>
   <tr>
     <td align="center" style="padding: 0 8px; white-space: nowrap;">
@@ -54,6 +55,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" title="Git" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="28" title="Windows" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="28" title="Godot" />
+    </td>
+    <td align="center" style="padding: 0 8px; white-space: nowrap;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="28" title="PyTorch" />
     </td>
   </tr>
 </table>
