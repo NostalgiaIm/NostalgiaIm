@@ -52,7 +52,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" title="C++" />
     </td>
     <td align="center" style="padding: 0 8px; white-space: nowrap;">
-      <img src="https://raw.githubusercontent.com/langgenius/dify/1.14.2/packages/iconify-collections/assets/public/common/dify.svg" width="28" title="Dify" />
+      <img src="https://cdn.jsdelivr.net/gh/langgenius/dify@main/web/public/logo.png" width="28" title="Dify" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" title="Git" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="28" title="Windows" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="28" title="Godot" />
