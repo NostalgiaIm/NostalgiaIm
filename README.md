@@ -20,45 +20,53 @@
 
 ## Tech Stack
 
-<table align="center" style="border-collapse: collapse; white-space: nowrap;">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
-    <td align="center" style="padding: 0 8px;"><strong>Front-End</strong></td>
-    <td align="center" style="padding: 0 8px;"><strong>Back-End</strong></td>
-    <td align="center" style="padding: 0 8px;"><strong>Database</strong></td>
-    <td align="center" style="padding: 0 8px;"><strong>Languages</strong></td>
-    <td align="center" style="padding: 0 8px;"><strong>Tools</strong></td>
-    <td align="center" style="padding: 0 8px;"><strong>Machine Learning</strong></td>
+    <td align="right" style="padding: 5px 14px;"><strong>Front-End</strong></td>
+    <td style="padding: 5px 0; line-height: 2;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue 3" />
+    </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 0 8px; white-space: nowrap;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="28" title="HTML5" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="28" title="CSS3" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="28" title="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" title="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="28" title="Vue 3" />
+    <td align="right" style="padding: 5px 14px;"><strong>Back-End</strong></td>
+    <td style="padding: 5px 0; line-height: 2;">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
     </td>
-    <td align="center" style="padding: 0 8px; white-space: nowrap;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="28" title="Node.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" title="Java" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" title="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28" title="C#" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="28" title="Kotlin" />
+  </tr>
+  <tr>
+    <td align="right" style="padding: 5px 14px;"><strong>Database</strong></td>
+    <td style="padding: 5px 0; line-height: 2;">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
     </td>
-    <td align="center" style="padding: 0 8px; white-space: nowrap;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" title="MySQL" />
+  </tr>
+  <tr>
+    <td align="right" style="padding: 5px 14px;"><strong>Languages</strong></td>
+    <td style="padding: 5px 0; line-height: 2;">
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
     </td>
-    <td align="center" style="padding: 0 8px; white-space: nowrap;">
-      <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="28" title="C" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" title="C++" />
+  </tr>
+  <tr>
+    <td align="right" style="padding: 5px 14px;"><strong>Tools</strong></td>
+    <td style="padding: 5px 0; line-height: 2;">
+      <img src="https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge&amp;logo=dify&amp;logoColor=white" alt="Dify" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows" />
+      <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&amp;logo=godotengine&amp;logoColor=white" alt="Godot" />
     </td>
-    <td align="center" style="padding: 0 8px; white-space: nowrap;">
-      <img src="https://devicons.io/devicons/icons/dify-icon.svg" width="28" title="Dify" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" title="Git" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="28" title="Windows" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="28" title="Godot" />
-    </td>
-    <td align="center" style="padding: 0 8px; white-space: nowrap;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="28" title="PyTorch" />
+  </tr>
+  <tr>
+    <td align="right" style="padding: 5px 14px;"><strong>Machine Learning</strong></td>
+    <td style="padding: 5px 0; line-height: 2;">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
     </td>
   </tr>
 </table>
