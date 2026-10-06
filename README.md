@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/NostalgiaIm/NostalgiaIm/blob/main/megumin-clear-transparent-nohalo.png" width="260" alt="NostalgiaIm image" />
 
-Hi there! I'm **ネガイイム** (Negaiimu) ✨
+Hi there! I'm **ネガイイム**  ✨
 
 - I like writing code, and sometimes I make tiny little things just for fun.
 - I'm into programming and music, and I enjoy slowly exploring what different languages can do.
