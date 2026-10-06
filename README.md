@@ -4,20 +4,20 @@
 
 <img align="right" src="https://github.com/NostalgiaIm/NostalgiaIm/blob/main/megumin-clear-transparent-nohalo.png" width="260" alt="NostalgiaIm image" />
 
-Hi there! I'm **ネガイイム**  ✨
+Hi there! I'm **ネガイイム** ✨
 
-- I like writing code, and sometimes I make tiny little things just for fun.
-- I'm into programming and music, and I enjoy slowly exploring what different languages can do.
-- I usually listen to Japanese songs and instrumental music 🎧
-- On GitHub, I share practice projects, personal works, and small tools I make on a whim.
-- I mainly use **Windows** for everyday development.
+- I like writing code, and sometimes I make tiny little things just for fun~ (๑•̀ㅂ•́)و✧
+- I'm into programming and music 🎵 and I enjoy slowly exploring what different languages can do (￣▽￣)
+- I usually listen to Japanese songs and instrumental music 🎧🌸
+- On GitHub, I share practice projects, personal works, and small tools I make on a whim 🧸🔧
+- I mainly use **Windows** for everyday development 🪟
 
-## What I'm Doing
+## What I'm Doing ( •̀ ω •́ )✧
 
-- Making fun little projects here and there.
-- Learning and practicing different programming languages.
-- Trying to turn random ideas into things that actually run.
-- Slowly leveling up my coding skills and project experience.
+- Making fun little projects here and there 🎨✨
+- Learning and practicing different programming languages 📚
+- Trying to turn random ideas into things that actually run 🚀 (≧▽≦)
+- Slowly leveling up my coding skills and project experience 🌱
   
 ## Tech Stack
 
