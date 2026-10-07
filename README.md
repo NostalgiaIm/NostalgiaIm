@@ -53,6 +53,7 @@ Hi there! I'm **ネガイイム** ✨
     <td style="padding: 5px 0; line-height: 2;">
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
     </td>
   </tr>
   <tr>
@@ -61,6 +62,7 @@ Hi there! I'm **ネガイイム** ✨
       <img src="https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge&amp;logo=dify&amp;logoColor=white" alt="Dify" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&amp;logo=godotengine&amp;logoColor=white" alt="Godot" />
     </td>
   </tr>
