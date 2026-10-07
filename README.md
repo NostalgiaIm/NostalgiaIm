@@ -51,9 +51,9 @@ Hi there! I'm **ネガイイム** ✨
   <tr>
     <td align="center" style="padding: 5px 14px;"><strong>Languages</strong></td>
     <td style="padding: 5px 0; line-height: 2;">
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
     </td>
   </tr>
   <tr>
