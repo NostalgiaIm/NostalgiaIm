@@ -14,7 +14,7 @@ Hi there! I'm **ネガイイム** ✨
 
 ## What I'm Doing ( •̀ ω •́ )✧
 
-- Making fun little projects here and there 🎨✨
+- Making fun little projects here and there 🎨
 - Learning and practicing different programming languages 📚
 - Trying to turn random ideas into things that actually run 🚀 (≧▽≦)
 - Slowly leveling up my coding skills and project experience 🌱
