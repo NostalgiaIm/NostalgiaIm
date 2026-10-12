@@ -2,7 +2,7 @@
 
 ## About Me 👋
 
-<img align="right" src="https://github.com/NostalgiaIm/NostalgiaIm/blob/main/megumin-clear-transparent-nohalo.png" width="260" alt="NostalgiaIm image" />
+/*<img align="right" src="https://github.com/NostalgiaIm/NostalgiaIm/blob/main/megumin-clear-transparent-nohalo.png" width="260" alt="NostalgiaIm image" />*/
 
 Hi there! I'm **ネガイイム** ✨
 
