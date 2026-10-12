@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="back.png" width="800" alt="NonCardio Profile" />
+  <img src="back.png" width="900" alt="NonCardio Profile" />
 </p>
 
 ### Stats
