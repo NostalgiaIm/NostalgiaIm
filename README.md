@@ -2,6 +2,8 @@
   <img src="back6.png" width="1000" alt="NonCardio Profile" />
 </p>
 
+<a href="https://ghfind.com/u/nostalgiaim?ref=badge"><img src="https://ghfind.com/api/badge/nostalgiaim" alt="GitHub Roast 评分徽章" /></a>
+
 ### Stats
 
 <p align="center">
