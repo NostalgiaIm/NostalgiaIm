@@ -1,4 +1,4 @@
-<p align="center">
+8<p align="center">
   <img src="back6.png" width="1000" alt="NonCardio Profile" />
 </p>
 
@@ -9,7 +9,7 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats-seven-theta-87.vercel.app/api?username=NostalgiaIm&theme=tokyonight&hide_border=true&border_radius=20&show_icons=true&rank_icon=default&v=7" height="200" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); margin: 1%;" />
+  <img src="https://github-readme-stats-seven-theta-87.vercel.app/api?username=NostalgiaIm&theme=tokyonight&hide_border=true&border_radius=20&show_icons=true&rank_icon=default&v=8" height="200" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); margin: 1%;" />
   <img src="https://github-readme-stats-seven-theta-87.vercel.app/api/top-langs/?username=NostalgiaIm&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=10&hide=javascript,html,php,css,makefile,scss&v=11" height="200" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); margin: 1%;" />
   
 </p>
